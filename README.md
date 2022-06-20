@@ -1,2 +1,2 @@
-# getDiscount
+# UniqFromARR
 Created with CodeSandbox
